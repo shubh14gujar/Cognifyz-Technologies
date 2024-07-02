@@ -1,7 +1,9 @@
-# Task 2 -  Complex Form Validation and Dynamic DOM Manipulation
-## Level - Intermediate
+# Task 2 -  Inline Styles, Basic Interaction,and Server-Side Validation
+## Level - Beginner
 ## Objective of the task
-⚡️Enhance form validation to include more complex rules <br/>
-⚡️Dynamically update the DOM based on user interactions using JavaScript. <br/>
-⚡️Implement client-side routing for a smoother user experience
-### [Live Preview](https://bhs-harish.github.io/Cognifyz-Full-Stack-Internship/task2)
+⚡️Extend HTML with more complex forms and user interactions. <br/>
+⚡️Utilize inline JavaScript for client-side form validation. <br/>
+⚡️Implement server-side validation for submitted form data. <br/>
+⚡️Store validated data in temporary server-side storage.
+
+
